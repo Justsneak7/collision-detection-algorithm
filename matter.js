@@ -1,3 +1,5 @@
+
+  
 /**
 * matter-js 0.12.0 by @liabru 2017-02-02
 * http://brm.io/matter-js/
@@ -35,7 +37,6 @@
 * Factories for commonly used body configurations (such as rectangles, circles and other polygons) can be found in the module `Matter.Bodies`.
 *
 * See the included usage [examples](https://github.com/liabru/matter-js/tree/master/examples).
-
 * @class Body
 */
 
